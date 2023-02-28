@@ -13,7 +13,8 @@ You must also download the necessary data files for the spacy library. To do thi
 
 ## Usage
 
-To use this project, you must first download or clone the repository to your computer. Once you have done this, navigate to the project directory and run the following command in your terminal or command prompt:
+To use this project, you must first download or clone the repository to your computer. Then, change the file name you want to image.jpeg.
+Once you have done this, navigate to the project directory and run the following command in your terminal or command prompt:
 
 `python preprocess.py`
 
