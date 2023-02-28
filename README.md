@@ -1,4 +1,4 @@
-#Extracting data from Images using OCR-NER and Machine Learning Techniques
+# Extracting data from Images using OCR-NER and Machine Learning Techniques
 This is a project that demonstrates the use of OCR-NER and machine learning techniques to extract data from images. The project involves the use of several libraries, including numpy, pandas, cv2, ocr-ner, and spacy.
 
 Installation
